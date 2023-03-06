@@ -1,0 +1,632 @@
+HCPCS Code,Short Description,Payment Limit,Payment Limit.1,Vaccine AWP%,Vaccine Limit,Infusion AWP%,DME Infusion Limit,Blood AWP%,Blood limit,Clotting Factor,Co-insurance,Effective Date
+90371,Hep b ig im,126.858,126.858,,,,,,,,0.2,2021-01-01
+90375,Rabies ig im/sc,271.366,271.366,,,,,,,,0.2,2021-01-01
+90376,Rabies ig heat treated,237.368,237.368,,,,,,,,0.2,2021-01-01
+90586,Bcg vaccine intravesical,142.504,142.504,,,,,,,,0.2,2021-01-01
+90632,Hepa vaccine adult im,60.696,60.696,,,,,,,,0.2,2021-01-01
+90653,Iiv adjuvant vaccine im,59.529,59.529,95.0,59.529,,,,,2.0,0.0,2021-01-01
+90662,Iiv no prsv increased ag im,60.982,60.982,95.0,60.982,,,,,2.0,0.0,2021-01-01
+90670,Pcv13 vaccine im,230.141,230.141,95.0,230.141,,,,,2.0,0.0,2021-01-01
+90672,Laiv4 vaccine intranasal,26.876,26.876,95.0,26.876,,,,,2.0,0.0,2021-01-01
+90674,Cciiv4 vac no prsv 0.5 ml im,29.228,29.228,95.0,29.228,,,,,2.0,0.0,2021-01-01
+90675,Rabies vaccine im,318.056,318.056,,,,,,,,0.2,2021-01-01
+90682,Riv4 vacc recombinant dna im,60.982,60.982,95.0,60.982,,,,,2.0,0.0,2021-01-01
+90685,Iiv4 vacc no prsv 0.25 ml im,21.129,21.129,95.0,21.129,,,,,2.0,0.0,2021-01-01
+90686,Iiv4 vacc no prsv 0.5 ml im,19.581,19.581,95.0,19.581,,,,,2.0,0.0,2021-01-01
+90687,Iiv4 vaccine splt 0.25 ml im,9.584,9.584,95.0,9.584,,,,,2.0,0.0,2021-01-01
+90688,Iiv4 vaccine splt 0.5 ml im,19.168,19.168,95.0,19.168,,,,,2.0,0.0,2021-01-01
+90691,Typhoid vaccine im,123.681,123.681,,,,,,,,0.2,2021-01-01
+90694,Vacc AIIV4 no prsrv 0.5ML IM,61.0,61.0,95.0,61.0,,,,,2.0,0.0,2021-01-01
+90714,Td vacc no presv 7 yrs+ im,25.371,25.371,,,,,,,,0.2,2021-01-01
+90715,Tdap vaccine 7 yrs/> im,34.06,34.06,,,,,,,,0.2,2021-01-01
+90732,Ppsv23 vacc 2 yrs+ subq/im,119.921,119.921,95.0,119.921,,,,,2.0,0.0,2021-01-01
+90739,Hepb vacc 2 dose adult im,131.1,131.1,95.0,131.1,,,,,5.0,0.0,2021-01-01
+90740,Hepb vacc 3 dose immunsup im,140.756,140.756,95.0,140.756,,,,,5.0,0.0,2021-01-01
+90744,Hepb vacc 3 dose ped/adol im,28.208,28.208,95.0,28.208,,,,,5.0,0.0,2021-01-01
+90746,Hepb vaccine 3 dose adult im,69.648,69.648,95.0,69.648,,,,,5.0,0.0,2021-01-01
+90747,Hepb vacc 4 dose immunsup im,140.756,140.756,95.0,140.756,,,,,5.0,0.0,2021-01-01
+90756,Cciiv4 vacc abx free im,27.695,27.695,95.0,27.695,,,,,2.0,0.0,2021-01-01
+A9575,Inj gadoterate meglumi 0.1ml,0.167,0.167,,,,,,,,0.2,2021-01-01
+A9576,Inj prohance multipack,1.408,1.408,,,,,,,,0.2,2021-01-01
+A9577,Inj multihance,1.814,1.814,,,,,,,,0.2,2021-01-01
+A9578,Inj multihance multipack,1.755,1.755,,,,,,,,0.2,2021-01-01
+A9579,"Gad-base mr contrast nos,1ml",1.548,1.548,,,,,,,,0.2,2021-01-01
+A9581,Gadoxetate disodium inj,14.735,14.735,,,,,,,,0.2,2021-01-01
+A9585,Gadobutrol injection,0.363,0.363,,,,,,,,0.2,2021-01-01
+A9589,Insti hexaminolevulinate hcl,1175.773,1175.773,,,,,,,,0.2,2021-01-01
+J0121,"Inj., omadacycline, 1 mg",3.271,3.271,,,,,,,,0.2,2021-01-01
+J0122,"Inj., eravacycline, 1 mg",1.039,1.039,,,,,,,,0.2,2021-01-01
+J0129,Abatacept injection,56.867,56.867,,,,,,,,0.2,2021-01-01
+J0132,Acetylcysteine injection,0.944,0.944,,,,,,,,0.2,2021-01-01
+J0133,Acyclovir injection,0.042,0.042,,,,,,,,0.2,2021-01-01
+J0153,Adenosine inj 1mg,0.553,0.553,,,,,,,,0.2,2021-01-01
+J0171,Adrenalin epinephrine inject,0.848,0.848,,,,,,,,0.2,2021-01-01
+J0178,Aflibercept injection,921.755,921.755,,,,,,,,0.2,2021-01-01
+J0179,"Inj, brolucizumab-dbll, 1 mg",314.948,314.948,,,,,,,,0.2,2021-01-01
+J0180,Agalsidase beta injection,189.286,189.286,,,,,,,,0.2,2021-01-01
+J0185,"Inj., aprepitant, 1 mg",1.593,1.593,,,,,,,,0.2,2021-01-01
+J0202,"Injection, alemtuzumab",2017.449,2017.449,,,,,,,,0.2,2021-01-01
+J0207,Amifostine,1135.691,1135.691,,,,,,,,0.2,2021-01-01
+J0221,Lumizyme injection,174.632,174.632,,,,,,,,0.2,2021-01-01
+J0222,"Inj., patisiran, 0.1 mg",97.682,97.682,,,,,,,,0.2,2021-01-01
+J0223,Inj givosiran 0.5 mg,106.88,106.88,,,,,,,,0.2,2021-01-01
+J0256,Alpha 1 proteinase inhibitor,4.523,4.523,,,,,,,,0.2,2021-01-01
+J0257,Glassia injection,4.887,4.887,,,,,,,,0.2,2021-01-01
+J0278,Amikacin sulfate injection,1.064,1.064,,,,,,,,0.2,2021-01-01
+J0280,Aminophyllin 250 mg inj,10.335,10.335,,,,,,,,0.2,2021-01-01
+J0285,Amphotericin b,38.905,38.905,,,,38.905,,,,0.2,2021-01-01
+J0287,Amphotericin b lipid complex,9.373,9.373,,,,9.373,,,,0.2,2021-01-01
+J0289,Amphotericin b liposome inj,27.239,27.239,,,,27.239,,,,0.2,2021-01-01
+J0290,Ampicillin 500 mg inj,0.886,0.886,,,,,,,,0.2,2021-01-01
+J0291,"Inj., plazomicin, 5 mg",3.072,3.072,,,,,,,,0.2,2021-01-01
+J0295,Ampicillin sulbactam 1.5 gm,2.461,2.461,,,,,,,,0.2,2021-01-01
+J0348,Anidulafungin injection,0.543,0.543,,,,,,,,0.2,2021-01-01
+J0360,Hydralazine hcl injection,2.941,2.941,,,,,,,,0.2,2021-01-01
+J0401,Inj aripiprazole ext rel 1mg,5.703,5.703,,,,,,,,0.2,2021-01-01
+J0456,Azithromycin,3.301,3.301,,,,,,,,0.2,2021-01-01
+J0461,Atropine sulfate injection,0.08,0.08,,,,,,,,0.2,2021-01-01
+J0475,Baclofen 10 mg injection,172.78,172.78,,,,172.78,,,,0.2,2021-01-01
+J0476,Baclofen intrathecal trial,56.663,56.663,,,,56.663,,,,0.2,2021-01-01
+J0480,Basiliximab,4019.07,4019.07,,,,,,,,0.2,2021-01-01
+J0485,Belatacept injection,3.792,3.792,,,,,,,,0.2,2021-01-01
+J0490,Belimumab injection,46.835,46.835,,,,,,,,0.2,2021-01-01
+J0500,Dicyclomine injection,34.635,34.635,,,,,,,,0.2,2021-01-01
+J0515,Inj benztropine mesylate,17.161,17.161,,,,,,,,0.2,2021-01-01
+J0517,"Inj., benralizumab, 1 mg",171.3,171.3,,,,,,,,0.2,2021-01-01
+J0558,Peng benzathine/procaine inj,12.008,12.008,,,,,,,,0.2,2021-01-01
+J0561,Penicillin g benzathine inj,15.104,15.104,,,,,,,,0.2,2021-01-01
+J0565,"Inj, bezlotoxumab, 10 mg",39.666,39.666,,,,,,,,0.2,2021-01-01
+J0570,Buprenorphine implant 74.2mg,1204.989,1204.989,,,,,,,,0.2,2021-01-01
+J0583,Bivalirudin,0.447,0.447,,,,,,,,0.2,2021-01-01
+J0584,"Injection, burosumab-twza 1m",361.954,361.954,,,,,,,,0.2,2021-01-01
+J0585,"Injection,onabotulinumtoxina",6.063,6.063,,,,,,,,0.2,2021-01-01
+J0586,Abobotulinumtoxina,8.27,8.27,,,,,,,,0.2,2021-01-01
+J0587,"Inj, rimabotulinumtoxinb",11.967,11.967,,,,,,,,0.2,2021-01-01
+J0588,Incobotulinumtoxin a,5.055,5.055,,,,,,,,0.2,2021-01-01
+J0592,Buprenorphine hydrochloride,4.491,4.491,,,,,,,,0.2,2021-01-01
+J0594,Busulfan injection,2.13,2.13,,,,,,,,0.2,2021-01-01
+J0595,Butorphanol tartrate 1 mg,2.96,2.96,,,,,,,,0.2,2021-01-01
+J0596,"Injection, ruconest",28.981,28.981,,,,,,,,0.2,2021-01-01
+J0597,"C-1 esterase, berinert",54.326,54.326,,,,,,,,0.2,2021-01-01
+J0598,"C-1 esterase, cinryze",56.411,56.411,,,,,,,,0.2,2021-01-01
+J0600,Edetate calcium disodium inj,5594.422,5594.422,,,,,,,,0.2,2021-01-01
+J0610,Calcium gluconate injection,3.847,3.847,,,,,,,,0.2,2021-01-01
+J0630,Calcitonin salmon injection,2830.55,2830.55,,,,,,,,0.2,2021-01-01
+J0636,Inj calcitriol per 0.1 mcg,0.735,0.735,,,,,,,,0.2,2021-01-01
+J0637,Caspofungin acetate,6.647,6.647,,,,,,,,0.2,2021-01-01
+J0638,Canakinumab injection,113.258,113.258,,,,,,,,0.2,2021-01-01
+J0640,Leucovorin calcium injection,2.732,2.732,,,,,,,,0.2,2021-01-01
+J0641,Inj levoleucovorin nos 0.5mg,0.115,0.115,,,,,,,,0.2,2021-01-01
+J0642,"Injection, khapzory, 0.5 mg",1.87,1.87,,,,,,,,0.2,2021-01-01
+J0670,Inj mepivacaine hcl/10 ml,3.008,3.008,,,,,,,,0.2,2021-01-01
+J0690,Cefazolin sodium injection,0.82,0.82,,,,,,,,0.2,2021-01-01
+J0691,Inj lefamulin 1 mg,0.724,0.724,,,,,,,,0.2,2021-01-01
+J0692,Cefepime hcl for injection,1.812,1.812,,,,,,,,0.2,2021-01-01
+J0694,Cefoxitin sodium injection,6.792,6.792,,,,,,,,0.2,2021-01-01
+J0695,Inj ceftolozane tazobactam,6.427,6.427,,,,,,,,0.2,2021-01-01
+J0696,Ceftriaxone sodium injection,0.559,0.559,,,,,,,,0.2,2021-01-01
+J0697,Sterile cefuroxime injection,1.903,1.903,,,,,,,,0.2,2021-01-01
+J0698,Cefotaxime sodium injection,2.332,2.332,,,,,,,,0.2,2021-01-01
+J0702,Betamethasone acet&sod phosp,7.211,7.211,,,,,,,,0.2,2021-01-01
+J0712,Ceftaroline fosamil inj,3.347,3.347,,,,,,,,0.2,2021-01-01
+J0713,Inj ceftazidime per 500 mg,1.978,1.978,,,,,,,,0.2,2021-01-01
+J0714,Ceftazidime and avibactam,92.283,92.283,,,,,,,,0.2,2021-01-01
+J0717,Certolizumab pegol inj 1mg,8.182,8.182,,,,,,,,0.2,2021-01-01
+J0720,Chloramphenicol sodium injec,35.209,35.209,,,,,,,,0.2,2021-01-01
+J0725,Chorionic gonadotropin/1000u,22.818,22.818,,,,,,,,0.2,2021-01-01
+J0735,Clonidine hydrochloride,22.573,22.573,,,,,,,,0.2,2021-01-01
+J0740,Cidofovir injection,590.291,590.291,,,,,,,,0.2,2021-01-01
+J0742,Inj imip 4 cilas 4 releb 2mg,2.256,2.256,,,,,,,,0.2,2021-01-01
+J0743,Cilastatin sodium injection,7.033,7.033,,,,,,,,0.2,2021-01-01
+J0744,Ciprofloxacin iv,0.993,0.993,,,,,,,,0.2,2021-01-01
+J0770,Colistimethate sodium inj,13.85,13.85,,,,,,,,0.2,2021-01-01
+J0775,"Collagenase, clost hist inj",52.616,52.616,,,,,,,,0.2,2021-01-01
+J0780,Prochlorperazine injection,5.072,5.072,,,,,,,,0.2,2021-01-01
+J0791,Inj crizanlizumab-tmca 5mg,122.425,122.425,,,,,,,,0.2,2021-01-01
+J0795,Corticorelin ovine triflutal,9.57,9.57,,,,,,,,0.2,2021-01-01
+J0800,Corticotropin injection,4017.744,4017.744,,,,,,,,0.2,2021-01-01
+J0834,"Inj., cosyntropin, 0.25 mg",32.251,32.251,,,,,,,,0.2,2021-01-01
+J0840,Crotalidae poly immune fab,2908.21,2908.21,,,,,,,,0.2,2021-01-01
+J0841,Inj crotalidae im f(ab')2 eq,1263.491,1263.491,,,,,,,,0.2,2021-01-01
+J0850,Cytomegalovirus imm iv /vial,1467.015,1467.015,,,,,,,,0.2,2021-01-01
+J0875,"Injection, dalbavancin",15.393,15.393,,,,,,,,0.2,2021-01-01
+J0878,Daptomycin injection,0.127,0.127,,,,,,,,0.2,2021-01-01
+J0881,"Darbepoetin alfa, non-esrd",3.558,3.558,,,,,,,,0.2,2021-01-01
+J0882,"Darbepoetin alfa, esrd use",3.558,3.558,,,,,,,,0.2,2021-01-01
+J0885,"Epoetin alfa, non-esrd",8.824,8.824,,,,,,,,0.2,2021-01-01
+J0887,Epoetin beta esrd use,1.496,1.496,,,,,,,,0.2,2021-01-01
+J0888,Epoetin beta non esrd,1.496,1.496,,,,,,,,0.2,2021-01-01
+J0894,Decitabine injection,3.426,3.426,,,,,,,,0.2,2021-01-01
+J0895,Deferoxamine mesylate inj,7.901,7.901,,,,7.901,,,,0.2,2021-01-01
+J0896,Inj luspatercept-aamt 0.25mg,36.307,36.307,,,,,,,,0.2,2021-01-01
+J0897,Denosumab injection,20.107,20.107,,,,,,,,0.2,2021-01-01
+J1000,Depo-estradiol cypionate inj,24.052,24.052,,,,,,,,0.2,2021-01-01
+J1020,Methylprednisolone 20 mg inj,3.346,3.346,,,,,,,,0.2,2021-01-01
+J1030,Methylprednisolone 40 mg inj,5.804,5.804,,,,,,,,0.2,2021-01-01
+J1040,Methylprednisolone 80 mg inj,10.755,10.755,,,,,,,,0.2,2021-01-01
+J1050,Medroxyprogesterone acetate,0.571,0.571,,,,,,,,0.2,2021-01-01
+J1071,Inj testosterone cypionate,0.033,0.033,,,,,,,,0.2,2021-01-01
+J1100,Dexamethasone sodium phos,0.141,0.141,,,,,,,,0.2,2021-01-01
+J1110,Inj dihydroergotamine mesylt,57.236,57.236,,,,,,,,0.2,2021-01-01
+J1120,Acetazolamid sodium injectio,23.377,23.377,,,,,,,,0.2,2021-01-01
+J1160,Digoxin injection,4.942,4.942,,,,,,,,0.2,2021-01-01
+J1162,Digoxin immune fab (ovine),3969.268,3969.268,,,,,,,,0.2,2021-01-01
+J1165,Phenytoin sodium injection,0.561,0.561,,,,,,,,0.2,2021-01-01
+J1170,Hydromorphone injection,2.735,2.735,,,,2.735,,,,0.2,2021-01-01
+J1190,Dexrazoxane hcl injection,195.983,195.983,,,,,,,,0.2,2021-01-01
+J1200,Diphenhydramine hcl injectio,0.616,0.616,,,,,,,,0.2,2021-01-01
+J1205,Chlorothiazide sodium inj,52.434,52.434,,,,,,,,0.2,2021-01-01
+J1212,Dimethyl sulfoxide 50% 50 ml,635.873,635.873,,,,,,,,0.2,2021-01-01
+J1230,Methadone injection,17.937,17.937,,,,17.937,,,,0.2,2021-01-01
+J1240,Dimenhydrinate injection,6.7,6.7,,,,,,,,0.2,2021-01-01
+J1245,Dipyridamole injection,3.364,3.364,,,,,,,,0.2,2021-01-01
+J1250,Inj dobutamine hcl/250 mg,7.191,7.191,,,,7.191,,,,0.2,2021-01-01
+J1265,Dopamine injection,0.66,0.66,,,,,,,,0.2,2021-01-01
+J1270,"Injection, doxercalciferol",0.316,0.316,,,,,,,,0.2,2021-01-01
+J1290,Ecallantide injection,492.117,492.117,,,,,,,,0.2,2021-01-01
+J1300,Eculizumab injection,230.316,230.316,,,,,,,,0.2,2021-01-01
+J1301,"Injection, edaravone, 1 mg",19.895,19.895,,,,,,,,0.2,2021-01-01
+J1303,"Inj., ravulizumab-cwvz 10 mg",226.179,226.179,,,,,,,,0.2,2021-01-01
+J1322,"Elosulfase alfa, injection",245.342,245.342,,,,,,,,0.2,2021-01-01
+J1325,Epoprostenol injection,16.428,16.428,,,,16.428,,,,0.2,2021-01-01
+J1335,Ertapenem injection,32.18,32.18,,,,,,,,0.2,2021-01-01
+J1364,Erythro lactobionate /500 mg,73.737,73.737,,,,,,,,0.2,2021-01-01
+J1380,Estradiol valerate 10 mg inj,11.505,11.505,,,,,,,,0.2,2021-01-01
+J1410,Inj estrogen conjugate 25 mg,325.507,325.507,,,,,,,,0.2,2021-01-01
+J1430,Ethanolamine oleate 100 mg,444.099,444.099,,,,,,,,0.2,2021-01-01
+J1439,Inj ferric carboxymaltos 1mg,1.13,1.13,,,,,,,,0.2,2021-01-01
+J1442,Inj filgrastim excl biosimil,0.938,0.938,,,,,,,,0.2,2021-01-01
+J1447,Inj tbo filgrastim 1 microg,0.459,0.459,,,,,,,,0.2,2021-01-01
+J1450,Fluconazole,3.321,3.321,,,,,,,,0.2,2021-01-01
+J1453,Fosaprepitant injection,0.417,0.417,,,,,,,,0.2,2021-01-01
+J1454,"Inj fosnetupitant, palonoset",695.558,695.558,,,,,,,,0.2,2021-01-01
+J1458,Galsulfase injection,404.072,404.072,,,,,,,,0.2,2021-01-01
+J1459,Inj ivig privigen 500 mg,42.427,42.427,,,,,,,,0.2,2021-01-01
+J1460,Gamma globulin 1 cc inj,43.296,43.296,,,,,,,,0.2,2021-01-01
+J1555,"Inj cuvitru, 100 mg",13.944,13.944,,,,,,,,0.2,2021-01-01
+J1556,"Inj, imm glob bivigam, 500mg",70.49,70.49,,,,,,,,0.2,2021-01-01
+J1557,Gammaplex injection,48.889,48.889,,,,,,,,0.2,2021-01-01
+J1558,"Inj. xembify, 100 mg",14.687,14.687,,,,,,,,0.2,2021-01-01
+J1559,Hizentra injection,11.094,11.094,,,,,,,,0.2,2021-01-01
+J1560,Gamma globulin > 10 cc inj,432.957,432.957,,,,,,,,0.2,2021-01-01
+J1561,Gamunex-c/gammaked,43.673,43.673,,,,,,,,0.2,2021-01-01
+J1566,"Immune globulin, powder",66.972,66.972,,,,,,,,0.2,2021-01-01
+J1568,Octagam injection,41.632,41.632,,,,,,,,0.2,2021-01-01
+J1569,Gammagard liquid injection,43.626,43.626,,,,,,,,0.2,2021-01-01
+J1570,Ganciclovir sodium injection,46.503,46.503,,,,46.503,,,,0.2,2021-01-01
+J1571,Hepagam b im injection,65.605,65.605,,,,,,,,0.2,2021-01-01
+J1572,Flebogamma injection,36.859,36.859,,,,,,,,0.2,2021-01-01
+J1575,Hyqvia 100mg immuneglobulin,14.336,14.336,,,,,,,,0.2,2021-01-01
+J1580,Garamycin gentamicin inj,1.778,1.778,,,,,,,,0.2,2021-01-01
+J1602,Golimumab for iv use 1mg,18.124,18.124,,,,,,,,0.2,2021-01-01
+J1610,Glucagon hydrochloride/1 mg,194.42,194.42,,,,,,,,0.2,2021-01-01
+J1626,Granisetron hcl injection,0.222,0.222,,,,,,,,0.2,2021-01-01
+J1627,"Inj, granisetron, xr, 0.1 mg",7.734,7.734,,,,,,,,0.2,2021-01-01
+J1630,Haloperidol injection,0.893,0.893,,,,,,,,0.2,2021-01-01
+J1631,Haloperidol decanoate inj,14.157,14.157,,,,,,,,0.2,2021-01-01
+J1640,"Hemin, 1 mg",24.431,24.431,,,,,,,,0.2,2021-01-01
+J1642,Inj heparin sodium per 10 u,0.014,0.014,,,,,,,,0.2,2021-01-01
+J1644,Inj heparin sodium per 1000u,0.32,0.32,,,,,,,,0.2,2021-01-01
+J1645,Dalteparin sodium,9.473,9.473,,,,,,,,0.2,2021-01-01
+J1650,Inj enoxaparin sodium,0.802,0.802,,,,,,,,0.2,2021-01-01
+J1652,Fondaparinux sodium,1.708,1.708,,,,,,,,0.2,2021-01-01
+J1670,Tetanus immune globulin inj,469.95,469.95,,,,,,,,0.2,2021-01-01
+J1720,Hydrocortisone sodium succ i,14.154,14.154,,,,,,,,0.2,2021-01-01
+J1740,Ibandronate sodium injection,41.539,41.539,,,,,,,,0.2,2021-01-01
+J1742,Ibutilide fumarate injection,273.156,273.156,,,,,,,,0.2,2021-01-01
+J1743,Idursulfase injection,542.917,542.917,,,,,,,,0.2,2021-01-01
+J1745,Infliximab not biosimil 10mg,44.902,44.902,,,,,,,,0.2,2021-01-01
+J1746,"Inj., ibalizumab-uiyk, 10 mg",64.05,64.05,,,,,,,,0.2,2021-01-01
+J1750,Inj iron dextran,15.054,15.054,,,,,,,,0.2,2021-01-01
+J1756,Iron sucrose injection,0.348,0.348,,,,,,,,0.2,2021-01-01
+J1786,Imuglucerase injection,43.38,43.38,,,,,,,,0.2,2021-01-01
+J1800,Propranolol injection,3.447,3.447,,,,,,,,0.2,2021-01-01
+J1815,Insulin injection,0.89,0.89,,,,,,,,0.2,2021-01-01
+J1817,Insulin for insulin pump use,10.897,10.897,,,,10.897,,,,0.2,2021-01-01
+J1885,Ketorolac tromethamine inj,0.386,0.386,,,,,,,,0.2,2021-01-01
+J1930,Lanreotide injection,68.463,68.463,,,,,,,,0.2,2021-01-01
+J1931,Laronidase injection,33.123,33.123,,,,,,,,0.2,2021-01-01
+J1940,Furosemide injection,0.649,0.649,,,,,,,,0.2,2021-01-01
+J1943,"Inj., aristada initio, 1 mg",2.91,2.91,,,,,,,,0.2,2021-01-01
+J1944,Aripirazole lauroxil 1 mg,2.904,2.904,,,,,,,,0.2,2021-01-01
+J1950,Leuprolide acetate /3.75 mg,1582.132,1582.132,,,,,,,,0.2,2021-01-01
+J1953,Levetiracetam injection,0.119,0.119,,,,,,,,0.2,2021-01-01
+J1955,Inj levocarnitine per 1 gm,20.99,20.99,,,,,,,,0.2,2021-01-01
+J1956,Levofloxacin injection,0.385,0.385,,,,,,,,0.2,2021-01-01
+J1980,Hyoscyamine sulfate inj,30.69,30.69,,,,,,,,0.2,2021-01-01
+J2001,Lidocaine injection,0.024,0.024,,,,,,,,0.2,2021-01-01
+J2010,Lincomycin injection,13.209,13.209,,,,,,,,0.2,2021-01-01
+J2020,Linezolid injection,7.069,7.069,,,,,,,,0.2,2021-01-01
+J2060,Lorazepam injection,0.716,0.716,,,,,,,,0.2,2021-01-01
+J2150,Mannitol injection,2.376,2.376,,,,,,,,0.2,2021-01-01
+J2175,Meperidine hydrochl /100 mg,5.341,5.341,,,,5.341,,,,0.2,2021-01-01
+J2182,"Injection, mepolizumab, 1mg",28.857,28.857,,,,,,,,0.2,2021-01-01
+J2185,Meropenem,0.763,0.763,,,,,,,,0.2,2021-01-01
+J2210,Methylergonovin maleate inj,19.305,19.305,,,,,,,,0.2,2021-01-01
+J2248,Micafungin sodium injection,1.087,1.087,,,,,,,,0.2,2021-01-01
+J2250,Inj midazolam hydrochloride,0.116,0.116,,,,,,,,0.2,2021-01-01
+J2260,Inj milrinone lactate / 5 mg,1.749,1.749,,,,,,,,0.2,2021-01-01
+J2270,Morphine sulfate injection,3.149,3.149,,,,3.149,,,,0.2,2021-01-01
+J2274,Inj morphine pf epid ithc,11.513,11.513,,,,,,,,0.2,2021-01-01
+J2278,Ziconotide injection,8.48,8.48,,,,,,,,0.2,2021-01-01
+J2280,"Inj, moxifloxacin 100 mg",9.187,9.187,,,,,,,,0.2,2021-01-01
+J2300,Inj nalbuphine hydrochloride,3.339,3.339,,,,,,,,0.2,2021-01-01
+J2310,Inj naloxone hydrochloride,11.942,11.942,,,,,,,,0.2,2021-01-01
+J2315,"Naltrexone, depot form",3.428,3.428,,,,,,,,0.2,2021-01-01
+J2323,Natalizumab injection,22.385,22.385,,,,,,,,0.2,2021-01-01
+J2350,"Injection, ocrelizumab, 1 mg",57.326,57.326,,,,,,,,0.2,2021-01-01
+J2353,"Octreotide injection, depot",205.412,205.412,,,,,,,,0.2,2021-01-01
+J2354,"Octreotide inj, non-depot",0.737,0.737,,,,,,,,0.2,2021-01-01
+J2357,Omalizumab injection,37.416,37.416,,,,,,,,0.2,2021-01-01
+J2358,Olanzapine long-acting inj,2.917,2.917,,,,,,,,0.2,2021-01-01
+J2360,Orphenadrine injection,6.833,6.833,,,,,,,,0.2,2021-01-01
+J2400,Chloroprocaine hcl injection,31.403,31.403,,,,,,,,0.2,2021-01-01
+J2405,Ondansetron hcl injection,0.093,0.093,,,,,,,,0.2,2021-01-01
+J2407,"Injection, oritavancin",23.818,23.818,,,,,,,,0.2,2021-01-01
+J2425,Palifermin injection,22.821,22.821,,,,,,,,0.2,2021-01-01
+J2426,Paliperidone palmitate inj,12.122,12.122,,,,,,,,0.2,2021-01-01
+J2430,Pamidronate disodium /30 mg,10.704,10.704,,,,,,,,0.2,2021-01-01
+J2469,Palonosetron hcl,3.185,3.185,,,,,,,,0.2,2021-01-01
+J2501,Paricalcitol,0.599,0.599,,,,,,,,0.2,2021-01-01
+J2503,Pegaptanib sodium injection,785.502,785.502,,,,,,,,0.2,2021-01-01
+J2505,"Injection, pegfilgrastim 6mg",3079.488,3079.488,,,,,,,,0.2,2021-01-01
+J2507,Pegloticase injection,2771.289,2771.289,,,,,,,,0.2,2021-01-01
+J2510,Penicillin g procaine inj,29.858,29.858,,,,,,,,0.2,2021-01-01
+J2515,Pentobarbital sodium inj,31.785,31.785,,,,,,,,0.2,2021-01-01
+J2540,Penicillin g potassium inj,1.098,1.098,,,,,,,,0.2,2021-01-01
+J2543,Piperacillin/tazobactam,1.611,1.611,,,,,,,,0.2,2021-01-01
+J2545,Pentamidine non-comp unit,92.771,92.771,,,,,,,,0.2,2021-01-01
+J2550,Promethazine hcl injection,2.315,2.315,,,,,,,,0.2,2021-01-01
+J2560,Phenobarbital sodium inj,45.656,45.656,,,,,,,,0.2,2021-01-01
+J2562,Plerixafor injection,365.015,365.015,,,,,,,,0.2,2021-01-01
+J2597,Inj desmopressin acetate,10.572,10.572,,,,,,,,0.2,2021-01-01
+J2675,Inj progesterone per 50 mg,1.198,1.198,,,,,,,,0.2,2021-01-01
+J2680,Fluphenazine decanoate 25 mg,11.62,11.62,,,,,,,,0.2,2021-01-01
+J2690,Procainamide hcl injection,81.751,81.751,,,,,,,,0.2,2021-01-01
+J2700,Oxacillin sodium injeciton,1.223,1.223,,,,,,,,0.2,2021-01-01
+J2704,"Inj, propofol, 10 mg",0.117,0.117,,,,,,,,0.2,2021-01-01
+J2720,Inj protamine sulfate/10 mg,1.028,1.028,,,,,,,,0.2,2021-01-01
+J2724,Protein c concentrate,15.084,15.084,,,,,,,,0.2,2021-01-01
+J2760,Phentolaine mesylate inj,356.884,356.884,,,,,,,,0.2,2021-01-01
+J2765,Metoclopramide hcl injection,1.084,1.084,,,,,,,,0.2,2021-01-01
+J2770,Quinupristin/dalfopristin,458.83,458.83,,,,,,,,0.2,2021-01-01
+J2778,Ranibizumab injection,322.853,322.853,,,,,,,,0.2,2021-01-01
+J2780,Ranitidine hydrochloride inj,6.117,6.117,,,,,,,,0.2,2021-01-01
+J2783,Rasburicase,306.135,306.135,,,,,,,,0.2,2021-01-01
+J2785,Regadenoson injection,59.372,59.372,,,,,,,,0.2,2021-01-01
+J2786,"Injection, reslizumab, 1mg",9.754,9.754,,,,,,,,0.2,2021-01-01
+J2788,Rho d immune globulin 50 mcg,24.784,24.784,,,,,,,,0.2,2021-01-01
+J2790,Rho d immune globulin inj,80.361,80.361,,,,,,,,0.2,2021-01-01
+J2791,Rhophylac injection,4.746,4.746,,,,,,,,0.2,2021-01-01
+J2792,"Rho(d) immune globulin h, sd",29.402,29.402,,,,,,,,0.2,2021-01-01
+J2794,"Inj risperdal consta, 0.5 mg",10.532,10.532,,,,,,,,0.2,2021-01-01
+J2795,Ropivacaine hcl injection,0.066,0.066,,,,,,,,0.2,2021-01-01
+J2796,Romiplostim injection,79.108,79.108,,,,,,,,0.2,2021-01-01
+J2798,"Inj., perseris, 0.5 mg",10.161,10.161,,,,,,,,0.2,2021-01-01
+J2800,Methocarbamol injection,7.635,7.635,,,,,,,,0.2,2021-01-01
+J2805,Sincalide injection,115.552,115.552,,,,,,,,0.2,2021-01-01
+J2820,Sargramostim injection,47.753,47.753,,,,,,,,0.2,2021-01-01
+J2860,"Injection, siltuximab",111.496,111.496,,,,,,,,0.2,2021-01-01
+J2916,Na ferric gluconate complex,2.007,2.007,,,,,,,,0.2,2021-01-01
+J2920,Methylprednisolone injection,4.377,4.377,,,,,,,,0.2,2021-01-01
+J2930,Methylprednisolone injection,5.491,5.491,,,,,,,,0.2,2021-01-01
+J2997,Alteplase recombinant,87.432,87.432,,,,,,,,0.2,2021-01-01
+J3000,Streptomycin injection,33.061,33.061,,,,,,,,0.2,2021-01-01
+J3010,Fentanyl citrate injection,0.717,0.717,,,,0.717,,,,0.2,2021-01-01
+J3032,Inj. eptinezumab-jjmr 1 mg,15.602,15.602,,,,,,,,0.2,2021-01-01
+J3060,"Inj, taliglucerase alfa 10 u",40.964,40.964,,,,,,,,0.2,2021-01-01
+J3090,Inj tedizolid phosphate,1.587,1.587,,,,,,,,0.2,2021-01-01
+J3095,Telavancin injection,5.943,5.943,,,,,,,,0.2,2021-01-01
+J3101,Tenecteplase injection,129.274,129.274,,,,,,,,0.2,2021-01-01
+J3105,Terbutaline sulfate inj,5.154,5.154,,,,,,,,0.2,2021-01-01
+J3111,Inj. romosozumab-aqqg 1 mg,9.002,9.002,,,,,,,,0.2,2021-01-01
+J3121,Inj testostero enanthate 1mg,0.049,0.049,,,,,,,,0.2,2021-01-01
+J3145,Testosterone undecanoate 1mg,1.531,1.531,,,,,,,,0.2,2021-01-01
+J3230,Chlorpromazine hcl injection,35.894,35.894,,,,,,,,0.2,2021-01-01
+J3240,Thyrotropin injection,1776.212,1776.212,,,,,,,,0.2,2021-01-01
+J3241,Inj. teprotumumab-trbw 10 mg,315.88,315.88,,,,,,,,0.2,2021-01-01
+J3243,Tigecycline injection,1.193,1.193,,,,,,,,0.2,2021-01-01
+J3245,"Inj., tildrakizumab, 1 mg",132.708,132.708,,,,,,,,0.2,2021-01-01
+J3250,Trimethobenzamide hcl inj,40.533,40.533,,,,,,,,0.2,2021-01-01
+J3260,Tobramycin sulfate injection,4.597,4.597,,,,,,,,0.2,2021-01-01
+J3262,Tocilizumab injection,5.469,5.469,,,,,,,,0.2,2021-01-01
+J3285,Treprostinil injection,63.692,63.692,,,,,,,,0.2,2021-01-01
+J3300,Triamcinolone a inj prs-free,3.858,3.858,,,,,,,,0.2,2021-01-01
+J3301,Triamcinolone acet inj nos,1.375,1.375,,,,,,,,0.2,2021-01-01
+J3304,Inj triamcinolone ace xr 1mg,18.006,18.006,,,,,,,,0.2,2021-01-01
+J3315,Triptorelin pamoate,503.806,503.806,,,,,,,,0.2,2021-01-01
+J3357,"Ustekinumab sub cu inj, 1 mg",180.116,180.116,,,,,,,,0.2,2021-01-01
+J3358,"Ustekinumab, iv inject, 1 mg",11.951,11.951,,,,,,,,0.2,2021-01-01
+J3360,Diazepam injection,7.148,7.148,,,,,,,,0.2,2021-01-01
+J3370,Vancomycin hcl injection,2.614,2.614,,,,,,,,0.2,2021-01-01
+J3380,"Injection, vedolizumab",20.348,20.348,,,,,,,,0.2,2021-01-01
+J3385,Velaglucerase alfa,346.625,346.625,,,,,,,,0.2,2021-01-01
+J3396,Verteporfin injection,11.246,11.246,,,,,,,,0.2,2021-01-01
+J3410,Hydroxyzine hcl injection,8.299,8.299,,,,,,,,0.2,2021-01-01
+J3411,Thiamine hcl 100 mg,2.542,2.542,,,,,,,,0.2,2021-01-01
+J3415,Pyridoxine hcl 100 mg,10.261,10.261,,,,,,,,0.2,2021-01-01
+J3420,Vitamin b12 injection,1.842,1.842,,,,,,,,0.2,2021-01-01
+J3430,Vitamin k phytonadione inj,3.859,3.859,,,,,,,,0.2,2021-01-01
+J3465,"Injection, voriconazole",1.654,1.654,,,,,,,,0.2,2021-01-01
+J3471,"Ovine, up to 999 usp units",0.457,0.457,,,,,,,,0.2,2021-01-01
+J3473,Hyaluronidase recombinant,0.359,0.359,,,,,,,,0.2,2021-01-01
+J3475,Inj magnesium sulfate,0.631,0.631,,,,,,,,0.2,2021-01-01
+J3480,Inj potassium chloride,0.162,0.162,,,,,,,,0.2,2021-01-01
+J3485,Zidovudine,1.511,1.511,,,,,,,,0.2,2021-01-01
+J3486,Ziprasidone mesylate,20.951,20.951,,,,,,,,0.2,2021-01-01
+J3489,Zoledronic acid 1mg,10.3,10.3,,,,,,,,0.2,2021-01-01
+J7030,Normal saline solution infus,2.73,2.73,,,,,,,,0.2,2021-01-01
+J7040,Normal saline solution infus,1.365,1.365,,,,,,,,0.2,2021-01-01
+J7042,5% dextrose/normal saline,1.211,1.211,,,,,,,,0.2,2021-01-01
+J7050,Normal saline solution infus,0.683,0.683,,,,,,,,0.2,2021-01-01
+J7060,5% dextrose/water,1.98,1.98,,,,,,,,0.2,2021-01-01
+J7070,D5w infusion,3.928,3.928,,,,,,,,0.2,2021-01-01
+J7120,Ringers lactate infusion,2.49,2.49,,,,,,,,0.2,2021-01-01
+J7170,"Inj., emicizumab-kxwh 0.5 mg",47.752,47.752,,,,,,,1.0,0.2,2021-01-01
+J7175,"Inj, factor x, (human), 1iu",7.891,7.891,,,,,,,1.0,0.2,2021-01-01
+J7177,"Inj., fibryga, 1 mg",1.086,1.086,,,,,,,1.0,0.2,2021-01-01
+J7178,Inj human fibrinogen con nos,1.257,1.257,,,,,,,1.0,0.2,2021-01-01
+J7179,Vonvendi inj 1 iu vwf:rco,1.89,1.89,,,,,,,1.0,0.2,2021-01-01
+J7180,Factor xiii anti-hem factor,8.783,8.783,,,,,,,1.0,0.2,2021-01-01
+J7181,Factor xiii recomb a-subunit,15.451,15.451,,,,,,,1.0,0.2,2021-01-01
+J7182,Factor viii recomb novoeight,1.288,1.288,,,,,,,1.0,0.2,2021-01-01
+J7183,Wilate injection,1.035,1.035,,,,,,,1.0,0.2,2021-01-01
+J7185,Xyntha inj,1.23,1.23,,,,,,,1.0,0.2,2021-01-01
+J7186,Antihemophilic viii/vwf comp,1.123,1.123,,,,,,,1.0,0.2,2021-01-01
+J7187,"Humate-p, inj",1.22,1.22,,,,,,,1.0,0.2,2021-01-01
+J7188,Factor viii recomb obizur,3.191,3.191,,,,,,,1.0,0.2,2021-01-01
+J7189,Factor viia,2.263,2.263,,,,,,,1.0,0.2,2021-01-01
+J7190,Factor viii,1.07,1.07,,,,,,,1.0,0.2,2021-01-01
+J7192,Factor viii recombinant nos,1.348,1.348,,,,,,,1.0,0.2,2021-01-01
+J7193,Factor ix non-recombinant,1.192,1.192,,,,,,,1.0,0.2,2021-01-01
+J7194,Factor ix complex,1.48,1.48,,,,,,,1.0,0.2,2021-01-01
+J7195,Factor ix recombinant nos,1.532,1.532,,,,,,,1.0,0.2,2021-01-01
+J7197,Antithrombin iii injection,3.48,3.48,,,,,,,,0.2,2021-01-01
+J7198,Anti-inhibitor,2.085,2.085,,,,,,,1.0,0.2,2021-01-01
+J7200,Factor ix recombinan rixubis,1.455,1.455,,,,,,,1.0,0.2,2021-01-01
+J7201,Factor ix alprolix recomb,3.257,3.257,,,,,,,1.0,0.2,2021-01-01
+J7202,Factor ix idelvion inj,4.463,4.463,,,,,,,1.0,0.2,2021-01-01
+J7203,Factor ix recomb gly rebinyn,3.959,3.959,,,,,,,1.0,0.2,2021-01-01
+J7204,Inj recombin esperoct per iu,2.248,2.248,,,,,,,,0.2,2021-01-01
+J7205,Factor viii fc fusion recomb,2.173,2.173,,,,,,,1.0,0.2,2021-01-01
+J7207,Factor viii pegylated recomb,1.848,1.848,,,,,,,1.0,0.2,2021-01-01
+J7208,Inj. jivi 1 iu,2.03,2.03,,,,,,,1.0,0.2,2021-01-01
+J7209,Factor viii nuwiq recomb 1iu,1.259,1.259,,,,,,,1.0,0.2,2021-01-01
+J7210,"Inj, afstyla, 1 i.u.",1.352,1.352,,,,,,,1.0,0.2,2021-01-01
+J7211,"Inj, kovaltry, 1 i.u.",1.224,1.224,,,,,,,1.0,0.2,2021-01-01
+J7308,Aminolevulinic acid hcl top,388.418,388.418,,,,,,,,0.2,2021-01-01
+J7311,"Inj., retisert, 0.01 mg",341.217,341.217,,,,,,,,0.2,2021-01-01
+J7312,Dexamethasone intra implant,199.85,199.85,,,,,,,,0.2,2021-01-01
+J7313,"Inj., iluvien, 0.01 mg",490.931,490.931,,,,,,,,0.2,2021-01-01
+J7314,"Inj., yutiq, 0.01 mg",496.417,496.417,,,,,,,,0.2,2021-01-01
+J7316,"Inj, ocriplasmin, 0.125 mg",1046.927,1046.927,,,,,,,,0.2,2021-01-01
+J7321,Hyalgan or supartz inj dose,75.17,75.17,,,,,,,,0.2,2021-01-01
+J7323,Euflexxa inj per dose,135.139,135.139,,,,,,,,0.2,2021-01-01
+J7324,Orthovisc inj per dose,128.547,128.547,,,,,,,,0.2,2021-01-01
+J7325,Synvisc or synvisc-one,10.671,10.671,,,,,,,,0.2,2021-01-01
+J7327,Monovisc inj per dose,785.187,785.187,,,,,,,,0.2,2021-01-01
+J7331,"Synojoynt, inj., 1 mg",18.016,18.016,,,,,,,,0.2,2021-01-01
+J7336,Capsaicin 8% patch,3.25,3.25,,,,,,,,0.2,2021-01-01
+J7340,Carbidopa levodopa ent 100ml,213.763,213.763,,,,,,,,0.2,2021-01-01
+J7342,Ciprofloxacin otic susp 6 mg,29.983,29.983,,,,,,,,0.2,2021-01-01
+J7345,"Aminolevulinic acid, 10% gel",1.521,1.521,,,,,,,,0.2,2021-01-01
+J7351,Inj bimatoprost itc imp1mcg,206.375,206.375,,,,,,,,0.2,2021-01-01
+J7500,Azathioprine oral 50mg,0.984,0.984,,,,,,,,0.2,2021-01-01
+J7502,Cyclosporine oral 100 mg,1.718,1.718,,,,,,,,0.2,2021-01-01
+J7503,Tacrol envarsus ex rel oral,1.42,1.42,,,,,,,,0.2,2021-01-01
+J7504,Lymphocyte immune globulin,2257.645,2257.645,,,,,,,,0.2,2021-01-01
+J7507,Tacrolimus imme rel oral 1mg,0.569,0.569,,,,,,,,0.2,2021-01-01
+J7508,Tacrol astagraf ex rel oral,0.477,0.477,,,,,,,,0.2,2021-01-01
+J7509,Methylprednisolone oral,0.349,0.349,,,,,,,,0.2,2021-01-01
+J7510,Prednisolone oral per 5 mg,0.128,0.128,,,,,,,,0.2,2021-01-01
+J7511,Antithymocyte globuln rabbit,790.601,790.601,,,,,,,,0.2,2021-01-01
+J7512,Prednisone ir or dr oral 1mg,0.012,0.012,,,,,,,,0.2,2021-01-01
+J7515,Cyclosporine oral 25 mg,0.642,0.642,,,,,,,,0.2,2021-01-01
+J7516,Cyclosporin parenteral 250mg,51.321,51.321,,,,,,,,0.2,2021-01-01
+J7517,Mycophenolate mofetil oral,0.475,0.475,,,,,,,,0.2,2021-01-01
+J7518,Mycophenolic acid,2.178,2.178,,,,,,,,0.2,2021-01-01
+J7520,"Sirolimus, oral",6.502,6.502,,,,,,,,0.2,2021-01-01
+J7525,Tacrolimus injection,212.219,212.219,,,,,,,,0.2,2021-01-01
+J7527,Oral everolimus,6.997,6.997,,,,,,,,0.2,2021-01-01
+J7605,Arformoterol non-comp unit,10.996,10.996,,,,,,,,0.2,2021-01-01
+J7606,"Formoterol fumarate, inh",11.656,11.656,,,,,,,,0.2,2021-01-01
+J7608,Acetylcysteine non-comp unit,5.744,5.744,,,,,,,,0.2,2021-01-01
+J7611,Albuterol non-comp con,0.236,0.236,,,,,,,,0.2,2021-01-01
+J7612,Levalbuterol non-comp con,0.297,0.297,,,,,,,,0.2,2021-01-01
+J7613,Albuterol non-comp unit,0.045,0.045,,,,,,,,0.2,2021-01-01
+J7614,Levalbuterol non-comp unit,0.062,0.062,,,,,,,,0.2,2021-01-01
+J7620,Albuterol ipratrop non-comp,0.119,0.119,,,,,,,,0.2,2021-01-01
+J7626,Budesonide non-comp unit,1.575,1.575,,,,,,,,0.2,2021-01-01
+J7631,Cromolyn sodium noncomp unit,2.708,2.708,,,,,,,,0.2,2021-01-01
+J7639,Dornase alfa non-comp unit,47.786,47.786,,,,,,,,0.2,2021-01-01
+J7644,Ipratropium bromide non-comp,0.202,0.202,,,,,,,,0.2,2021-01-01
+J7674,"Methacholine chloride, neb",0.771,0.771,,,,,,,,0.2,2021-01-01
+J7677,Revefenacin inh non-com 1mcg,0.188,0.188,,,,,,,,0.2,2021-01-01
+J7682,Tobramycin non-comp unit,42.67,42.67,,,,,,,,0.2,2021-01-01
+J7686,"Treprostinil, non-comp unit",671.835,671.835,,,,,,,,0.2,2021-01-01
+J8501,Oral aprepitant,4.296,4.296,,,,,,,,0.2,2021-01-01
+J8520,"Capecitabine, oral, 150 mg",0.745,0.745,,,,,,,,0.2,2021-01-01
+J8521,"Capecitabine, oral, 500 mg",2.473,2.473,,,,,,,,0.2,2021-01-01
+J8530,Cyclophosphamide oral 25 mg,1.623,1.623,,,,,,,,0.2,2021-01-01
+J8540,Oral dexamethasone,0.112,0.112,,,,,,,,0.2,2021-01-01
+J8560,Etoposide oral 50 mg,75.769,75.769,,,,,,,,0.2,2021-01-01
+J8610,Methotrexate oral 2.5 mg,0.142,0.142,,,,,,,,0.2,2021-01-01
+J8655,"Oral netupitant, palonosetro",270.65,270.65,,,,,,,,0.2,2021-01-01
+J8670,"Rolapitant, oral, 1mg",2.341,2.341,,,,,,,,0.2,2021-01-01
+J8700,Temozolomide,0.532,0.532,,,,,,,,0.2,2021-01-01
+J8705,Topotecan oral,103.593,103.593,,,,,,,,0.2,2021-01-01
+J9000,Doxorubicin hcl injection,2.5,2.5,,,,,,,,0.2,2021-01-01
+J9017,Arsenic trioxide injection,17.823,17.823,,,,,,,,0.2,2021-01-01
+J9019,Erwinaze injection,427.269,427.269,,,,,,,,0.2,2021-01-01
+J9022,"Inj, atezolizumab,10 mg",78.181,78.181,,,,,,,,0.2,2021-01-01
+J9023,"Injection, avelumab, 10 mg",85.331,85.331,,,,,,,,0.2,2021-01-01
+J9025,Azacitidine injection,0.914,0.914,,,,,,,,0.2,2021-01-01
+J9027,Clofarabine injection,30.178,30.178,,,,,,,,0.2,2021-01-01
+J9030,Bcg live intravesical 1mg,2.85,2.85,,,,,,,,0.2,2021-01-01
+J9032,"Injection, belinostat, 10mg",42.702,42.702,,,,,,,,0.2,2021-01-01
+J9033,"Inj., treanda 1 mg",24.581,24.581,,,,,,,,0.2,2021-01-01
+J9034,"Inj., bendeka 1 mg",20.173,20.173,,,,,,,,0.2,2021-01-01
+J9035,Bevacizumab injection,75.748,75.748,,,,,,,,0.2,2021-01-01
+J9036,Inj. belrapzo/bendamustine,22.273,22.273,,,,,,,,0.2,2021-01-01
+J9039,"Injection, blinatumomab",118.116,118.116,,,,,,,,0.2,2021-01-01
+J9040,Bleomycin sulfate injection,27.008,27.008,,,,27.008,,,,0.2,2021-01-01
+J9041,"Inj., velcade 0.1 mg",44.666,44.666,,,,,,,,0.2,2021-01-01
+J9042,Brentuximab vedotin inj,182.08,182.08,,,,,,,,0.2,2021-01-01
+J9043,Cabazitaxel injection,184.846,184.846,,,,,,,,0.2,2021-01-01
+J9044,"Inj, bortezomib, nos, 0.1 mg",21.101,21.101,,,,,,,,0.2,2021-01-01
+J9045,Carboplatin injection,2.68,2.68,,,,,,,,0.2,2021-01-01
+J9047,"Injection, carfilzomib, 1 mg",39.345,39.345,,,,,,,,0.2,2021-01-01
+J9050,Carmustine injection,1743.245,1743.245,,,,,,,,0.2,2021-01-01
+J9055,Cetuximab injection,65.483,65.483,,,,,,,,0.2,2021-01-01
+J9060,Cisplatin 10 mg injection,1.681,1.681,,,,,,,,0.2,2021-01-01
+J9065,Inj cladribine per 1 mg,21.023,21.023,,,,21.023,,,,0.2,2021-01-01
+J9070,Cyclophosphamide 100 mg inj,31.164,31.164,,,,,,,,0.2,2021-01-01
+J9100,Cytarabine hcl 100 mg inj,0.692,0.692,,,,0.692,,,,0.2,2021-01-01
+J9119,"Inj., cemiplimab-rwlc, 1 mg",27.397,27.397,,,,,,,,0.2,2021-01-01
+J9120,Dactinomycin injection,934.158,934.158,,,,,,,,0.2,2021-01-01
+J9130,Dacarbazine 100 mg inj,4.846,4.846,,,,,,,,0.2,2021-01-01
+J9144,"Daratumumab, hyaluronidase",43.851,43.851,,,,,,,,0.2,2021-01-01
+J9145,"Injection, daratumumab 10 mg",56.037,56.037,,,,,,,,0.2,2021-01-01
+J9150,Daunorubicin injection,42.52,42.52,,,,,,,,0.2,2021-01-01
+J9153,"Inj daunorubicin, cytarabine",201.686,201.686,,,,,,,,0.2,2021-01-01
+J9155,Degarelix injection,3.89,3.89,,,,,,,,0.2,2021-01-01
+J9171,Docetaxel injection,0.72,0.72,,,,,,,,0.2,2021-01-01
+J9173,"Inj., durvalumab, 10 mg",77.052,77.052,,,,,,,,0.2,2021-01-01
+J9176,"Injection, elotuzumab, 1mg",6.673,6.673,,,,,,,,0.2,2021-01-01
+J9177,Inj enfort vedo-ejfv 0.25mg,27.958,27.958,,,,,,,,0.2,2021-01-01
+J9178,"Inj, epirubicin hcl, 2 mg",1.51,1.51,,,,,,,,0.2,2021-01-01
+J9179,Eribulin mesylate injection,117.762,117.762,,,,,,,,0.2,2021-01-01
+J9181,Etoposide injection,0.744,0.744,,,,,,,,0.2,2021-01-01
+J9185,Fludarabine phosphate inj,54.976,54.976,,,,,,,,0.2,2021-01-01
+J9190,Fluorouracil injection,1.684,1.684,,,,1.684,,,,0.2,2021-01-01
+J9200,Floxuridine injection,70.126,70.126,,,,70.126,,,,0.2,2021-01-01
+J9201,In gemcitabine hcl nos 200mg,3.968,3.968,,,,,,,,0.2,2021-01-01
+J9202,Goserelin acetate implant,501.266,501.266,,,,,,,,0.2,2021-01-01
+J9203,Gemtuzumab ozogamicin 0.1 mg,205.362,205.362,,,,,,,,0.2,2021-01-01
+J9204,"Inj mogamulizumab-kpkc, 1 mg",206.424,206.424,,,,,,,,0.2,2021-01-01
+J9205,Inj irinotecan liposome 1 mg,54.307,54.307,,,,,,,,0.2,2021-01-01
+J9206,Irinotecan injection,2.449,2.449,,,,,,,,0.2,2021-01-01
+J9207,Ixabepilone injection,102.119,102.119,,,,,,,,0.2,2021-01-01
+J9208,Ifosfamide injection,26.172,26.172,,,,26.172,,,,0.2,2021-01-01
+J9209,Mesna injection,2.192,2.192,,,,,,,,0.2,2021-01-01
+J9210,"Inj., emapalumab-lzsg, 1 mg",393.159,393.159,,,,,,,,0.2,2021-01-01
+J9211,Idarubicin hcl injection,37.743,37.743,,,,,,,,0.2,2021-01-01
+J9214,Interferon alfa-2b inj,33.99,33.99,,,,,,,,0.2,2021-01-01
+J9217,Leuprolide acetate suspnsion,228.932,228.932,,,,,,,,0.2,2021-01-01
+J9218,Leuprolide acetate injeciton,11.466,11.466,,,,,,,,0.2,2021-01-01
+J9225,Vantas implant,4586.214,4586.214,,,,,,,,0.2,2021-01-01
+J9226,Supprelin la implant,40116.002,40116.002,,,,,,,,0.2,2021-01-01
+J9227,Inj. isatuximab-irfc 10 mg,66.372,66.372,,,,,,,,0.2,2021-01-01
+J9228,Ipilimumab injection,157.225,157.225,,,,,,,,0.2,2021-01-01
+J9229,Inj inotuzumab ozogam 0.1 mg,2341.297,2341.297,,,,,,,,0.2,2021-01-01
+J9245,Inj melpha hydroch nos 50 mg,228.788,228.788,,,,,,,,0.2,2021-01-01
+J9250,Methotrexate sodium inj,0.21,0.21,,,,,,,,0.2,2021-01-01
+J9260,Methotrexate sodium inj,2.103,2.103,,,,,,,,0.2,2021-01-01
+J9261,Nelarabine injection,151.888,151.888,,,,,,,,0.2,2021-01-01
+J9262,"Inj, omacetaxine mep, 0.01mg",3.312,3.312,,,,,,,,0.2,2021-01-01
+J9263,Oxaliplatin,0.115,0.115,,,,,,,,0.2,2021-01-01
+J9264,Paclitaxel protein bound,13.431,13.431,,,,,,,,0.2,2021-01-01
+J9266,Pegaspargase injection,19717.463,19717.463,,,,,,,,0.2,2021-01-01
+J9267,Paclitaxel injection,0.154,0.154,,,,,,,,0.2,2021-01-01
+J9268,Pentostatin injection,2001.895,2001.895,,,,,,,,0.2,2021-01-01
+J9269,Inj. tagraxofusp-erzs 10 mcg,283.327,283.327,,,,,,,,0.2,2021-01-01
+J9271,Inj pembrolizumab,50.648,50.648,,,,,,,,0.2,2021-01-01
+J9280,Mitomycin injection,54.238,54.238,,,,,,,,0.2,2021-01-01
+J9281,Mitomycin instillation,282.172,282.172,,,,,,,,0.2,2021-01-01
+J9285,"Inj, olaratumab, 10 mg",52.067,52.067,,,,,,,,0.2,2021-01-01
+J9293,Mitoxantrone hydrochl / 5 mg,24.14,24.14,,,,,,,,0.2,2021-01-01
+J9295,"Injection, necitumumab, 1 mg",5.737,5.737,,,,,,,,0.2,2021-01-01
+J9299,"Injection, nivolumab",28.541,28.541,,,,,,,,0.2,2021-01-01
+J9301,Obinutuzumab inj,63.543,63.543,,,,,,,,0.2,2021-01-01
+J9302,Ofatumumab injection,62.147,62.147,,,,,,,,0.2,2021-01-01
+J9303,Panitumumab injection,124.165,124.165,,,,,,,,0.2,2021-01-01
+J9305,Inj. pemetrexed nos 10mg,73.186,73.186,,,,,,,,0.2,2021-01-01
+J9306,"Injection, pertuzumab, 1 mg",12.985,12.985,,,,,,,,0.2,2021-01-01
+J9307,Pralatrexate injection,310.932,310.932,,,,,,,,0.2,2021-01-01
+J9308,"Injection, ramucirumab",61.657,61.657,,,,,,,,0.2,2021-01-01
+J9309,"Inj, polatuzumab vedotin 1mg",112.115,112.115,,,,,,,,0.2,2021-01-01
+J9311,"Inj rituximab, hyaluronidase",39.901,39.901,,,,,,,,0.2,2021-01-01
+J9312,"Inj., rituximab, 10 mg",91.836,91.836,,,,,,,,0.2,2021-01-01
+J9313,"Inj., lumoxiti, 0.01 mg",22.476,22.476,,,,,,,,0.2,2021-01-01
+J9315,Romidepsin injection,336.663,336.663,,,,,,,,0.2,2021-01-01
+J9317,Sacituzumab govitecan-hziy,29.505,29.505,,,,,,,,0.2,2021-01-01
+J9320,Streptozocin injection,348.727,348.727,,,,,,,,0.2,2021-01-01
+J9325,Inj talimogene laherparepvec,54.017,54.017,,,,,,,,0.2,2021-01-01
+J9328,Temozolomide injection,10.375,10.375,,,,,,,,0.2,2021-01-01
+J9330,Temsirolimus injection,42.858,42.858,,,,,,,,0.2,2021-01-01
+J9340,Thiotepa injection,454.817,454.817,,,,,,,,0.2,2021-01-01
+J9351,Topotecan injection,1.116,1.116,,,,,,,,0.2,2021-01-01
+J9352,Injection trabectedin 0.1mg,318.916,318.916,,,,,,,,0.2,2021-01-01
+J9354,"Inj, ado-trastuzumab emt 1mg",32.847,32.847,,,,,,,,0.2,2021-01-01
+J9355,Inj trastuzumab excl biosimi,100.493,100.493,,,,100.493,,,,0.2,2021-01-01
+J9356,"Inj. herceptin hylecta, 10mg",74.589,74.589,,,,,,,,0.2,2021-01-01
+J9357,Valrubicin injection,1410.406,1410.406,,,,,,,,0.2,2021-01-01
+J9358,Inj fam-trastu deru-nxki 1mg,24.131,24.131,,,,,,,,0.2,2021-01-01
+J9360,Vinblastine sulfate inj,3.678,3.678,,,,3.678,,,,0.2,2021-01-01
+J9370,Vincristine sulfate 1 mg inj,5.04,5.04,,,,5.04,,,,0.2,2021-01-01
+J9371,"Inj, vincristine sul lip 1mg",3320.397,3320.397,,,,,,,,0.2,2021-01-01
+J9390,Vinorelbine tartrate inj,9.544,9.544,,,,,,,,0.2,2021-01-01
+J9395,"Injection, fulvestrant",54.765,54.765,,,,,,,,0.2,2021-01-01
+J9400,"Inj, ziv-aflibercept, 1mg",8.496,8.496,,,,,,,,0.2,2021-01-01
+P9041,"Albumin (human),5%, 50ml",10.49,10.49,,,,,95.0,10.49,,0.2,2021-01-01
+P9045,"Albumin (human), 5%, 250 ml",52.45,52.45,,,,,95.0,52.45,,0.2,2021-01-01
+P9046,"Albumin (human), 25%, 20 ml",20.98,20.98,,,,,95.0,20.98,,0.2,2021-01-01
+P9047,"Albumin (human), 25%, 50ml",52.45,52.45,,,,,95.0,52.45,,0.2,2021-01-01
+Q0138,"Ferumoxytol, non-esrd",0.932,0.932,,,,,,,,0.2,2021-01-01
+Q0139,"Ferumoxytol, esrd use",0.932,0.932,,,,,,,,0.2,2021-01-01
+Q0162,Ondansetron oral,0.016,0.016,,,,,,,,0.2,2021-01-01
+Q0164,Prochlorperazine maleate 5mg,0.296,0.296,,,,,,,,0.2,2021-01-01
+Q0166,Granisetron hcl 1 mg oral,1.463,1.463,,,,,,,,0.2,2021-01-01
+Q0167,Dronabinol 2.5mg oral,0.803,0.803,,,,,,,,0.2,2021-01-01
+Q2043,Sipuleucel-t auto cd54+,49649.408,49649.408,,,,,,,,0.2,2021-01-01
+Q2050,Doxorubicin inj 10mg,298.802,298.802,,,,,,,,0.2,2021-01-01
+Q3027,Inj beta interferon im 1 mcg,54.417,54.417,,,,,,,,0.2,2021-01-01
+Q4074,Iloprost non-comp unit dose,140.302,140.302,,,,,,,,0.2,2021-01-01
+Q4081,"Epoetin alfa, 100 units esrd",0.882,0.882,,,,,,,4.0,0.2,2021-01-01
+Q4101,Apligraf,30.456,30.456,,,,,,,,0.2,2021-01-01
+Q4102,Oasis wound matrix,9.563,9.563,,,,,,,,0.2,2021-01-01
+Q4106,Dermagraft,31.858,31.858,,,,,,,,0.2,2021-01-01
+Q4110,Primatrix,42.33,42.33,,,,,,,,0.2,2021-01-01
+Q4111,Gammagraft,7.02,7.02,,,,,,,,0.2,2021-01-01
+Q4121,Theraskin,43.449,43.449,,,,,,,,0.2,2021-01-01
+Q4132,"Grafix core, grafixpl core",116.594,116.594,,,,,,,,0.2,2021-01-01
+Q4133,Grafix stravix prime pl sqcm,135.234,135.234,,,,,,,,0.2,2021-01-01
+Q4137,Amnioexcel biodexcel 1sq cm,86.589,86.589,,,,,,,,0.2,2021-01-01
+Q4145,"Epifix, inj, 1mg",18.662,18.662,,,,,,,,0.2,2021-01-01
+Q4151,"Amnioband, guardian 1 sq cm",126.011,126.011,,,,,,,,0.2,2021-01-01
+Q4154,Biovance 1 square cm,110.822,110.822,,,,,,,,0.2,2021-01-01
+Q4160,Nushield 1 square cm,99.526,99.526,,,,,,,,0.2,2021-01-01
+Q4186,Epifix 1 sq cm,156.229,156.229,,,,,,,,0.2,2021-01-01
+Q4195,Puraply 1 sq cm,95.485,95.485,,,,,,,,0.2,2021-01-01
+Q4196,Puraply am 1 sq cm,108.758,108.758,,,,,,,,0.2,2021-01-01
+Q5101,"Injection, zarxio",0.413,0.413,,,,,,,,0.2,2021-01-01
+Q5103,"Injection, inflectra",43.059,43.059,,,,,,,,0.2,2021-01-01
+Q5104,"Injection, renflexis",42.086,42.086,,,,,,,,0.2,2021-01-01
+Q5105,Inj retacrit esrd on dialysi,0.855,0.855,,,,,,,4.0,0.2,2021-01-01
+Q5106,Inj retacrit non-esrd use,8.547,8.547,,,,,,,,0.2,2021-01-01
+Q5107,Inj mvasi 10 mg,56.733,56.733,,,,,,,,0.2,2021-01-01
+Q5108,"Injection, fulphila",248.162,248.162,,,,,,,,0.2,2021-01-01
+Q5110,Nivestym,0.523,0.523,,,,,,,,0.2,2021-01-01
+Q5111,"Injection, udenyca 0.5 mg",267.786,267.786,,,,,,,,0.2,2021-01-01
+Q5112,Inj ontruzant 10 mg,88.166,88.166,,,,,,,,0.2,2021-01-01
+Q5113,Inj herzuma 10 mg,86.425,86.425,,,,,,,,0.2,2021-01-01
+Q5114,Inj ogivri 10 mg,73.209,73.209,,,,,,,,0.2,2021-01-01
+Q5115,Inj truxima 10 mg,68.498,68.498,,,,,,,,0.2,2021-01-01
+Q5116,"Inj., trazimera, 10 mg",74.168,74.168,,,,,,,,0.2,2021-01-01
+Q5117,"Inj., kanjinti, 10 mg",72.499,72.499,,,,,,,,0.2,2021-01-01
+Q5118,"Inj., zirabev, 10 mg",59.471,59.471,,,,,,,,0.2,2021-01-01
+Q5119,"Inj ruxience, 10 mg",67.323,67.323,,,,,,,,0.2,2021-01-01
+Q5120,Inj pegfilgrastim-bmez 0.5mg,297.962,297.962,,,,,,,,0.2,2021-01-01
+Q5121,"Inj. avsola, 10 mg",51.5,51.5,,,,,,,,0.2,2021-01-01
+Q9950,Inj sulf hexa lipid microsph,18.231,18.231,,,,,,,,0.2,2021-01-01
+Q9956,"Inj octafluoropropane mic,ml",31.377,31.377,,,,,,,,0.2,2021-01-01
+Q9957,"Inj perflutren lip micros,ml",47.065,47.065,,,,,,,,0.2,2021-01-01
+Q9958,"Hocm <=149 mg/ml iodine, 1ml",0.071,0.071,,,,,,,,0.2,2021-01-01
+Q9960,"Hocm 200-249mg/ml iodine,1ml",0.274,0.274,,,,,,,,0.2,2021-01-01
+Q9961,"Hocm 250-299mg/ml iodine,1ml",0.264,0.264,,,,,,,,0.2,2021-01-01
+Q9963,"Hocm 350-399mg/ml iodine,1ml",0.184,0.184,,,,,,,,0.2,2021-01-01
+Q9965,"Locm 100-199mg/ml iodine,1ml",0.852,0.852,,,,,,,,0.2,2021-01-01
+Q9966,"Locm 200-299mg/ml iodine,1ml",0.326,0.326,,,,,,,,0.2,2021-01-01
+Q9967,"Locm 300-399mg/ml iodine,1ml",0.114,0.114,,,,,,,,0.2,2021-01-01
+Q9991,Buprenorph xr 100 mg or less,1737.257,1737.257,,,,,,,,0.2,2021-01-01
+Q9992,Buprenorphine xr over 100 mg,1737.257,1737.257,,,,,,,,0.2,2021-01-01
